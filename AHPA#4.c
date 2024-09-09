@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
 int withdraw_amt; // global var
 
 // atm machine algo func, holy mess

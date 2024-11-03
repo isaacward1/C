@@ -1,9 +1,6 @@
 /*
  * COP 3515 – Fall Semester 2024
- *
  * Homework #1: Password Strength Meter
- *
- * Isaac Ward
  */ 
 
 #include <stdio.h>

@@ -170,7 +170,7 @@ bool isStrong = false;
 int MinTestsToPass = flags[5];
 
 
-if (strchr(line, ' ')) // if this is a passphrase, do some shit
+if (strchr(line, ' ')) // if this is a passphrase, do some stuff
 {
 if (lineLength >= flags[3]) // if passphrase is greater than min chars
 {    

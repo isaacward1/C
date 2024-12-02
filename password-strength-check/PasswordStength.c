@@ -1,6 +1,6 @@
 /*
- * COP 3515 – Fall Semester 2024
- * Homework #1: Password Strength Meter
+ * COP 3515
+ * Homework #1
  */ 
 
 #include <stdio.h>

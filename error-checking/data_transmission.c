@@ -1,6 +1,6 @@
 /*
-* COP 3515 – Fall Semester 2024
-* Homework #2: Spotting The Hacker
+* COP 3515
+* Homework #2
 */
 
 #include <stdio.h>
